@@ -16,17 +16,17 @@ The study evaluates estimator performance using bias and Mean Squared Error (MSE
 
 ![Agriculture MSE Comparison](agriculture%20MSE%20comparison.png)
 
-### 2. OLS vs Huber MSE Comparison
+### 2. Simulated Agriculture Data with Outliers
 
-![OLS vs Huber MSE Comparison](Education_Income MSE comparison.png)
+![Agriculture Scatterplot](agriculture_scatterplot.png)
 
 ### 3. Education and Income with Outliers
 
 ![Education Income Scatterplot](education_income%20scatterplot.png)
 
-### 4. Simulated Agriculture Data with Outliers
+### 4.  Education and Income MSE Comparison
 
-![Agriculture Scatterplot](agriculture_scatterplot.png)
+![Education and Income MSE Comparison](Education_Income%20MSE%20comparison.png)
 
 ## Tools Used
 
