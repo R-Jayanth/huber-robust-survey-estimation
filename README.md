@@ -34,7 +34,7 @@ R, Python, Statistical Analysis, Robust Estimation
 
 ## Research Status
 
-Research completed. Paper prepared and awaiting publication.
+Research under publication.
 
 ## Author
 
