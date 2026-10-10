@@ -18,7 +18,7 @@ The study evaluates estimator performance using bias and Mean Squared Error (MSE
 
 ### 2. OLS vs Huber MSE Comparison
 
-![OLS vs Huber MSE Comparison](Rplot%20comaprison%2C%20OLS%20vs%20Huber.png)
+![OLS vs Huber MSE Comparison](Education_Income MSE comparison.png)
 
 ### 3. Education and Income with Outliers
 
