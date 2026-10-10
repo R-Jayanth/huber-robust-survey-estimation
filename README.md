@@ -1,25 +1,20 @@
+
 # Enhancing Robustness in Survey Estimation using the Huber Function
 
 ## About the Project
-
-This research project focuses on improving survey estimation using a generalized exponential estimator based on the Huber function. The aim is to make estimation more robust when data contains outliers.
+This research develops a generalized exponential estimator using the Huber function to improve survey estimation in the presence of outliers.
 
 ## Methodology
+The proposed estimator was evaluated against the traditional OLS estimator through theoretical MSE comparisons, data analysis in education and agriculture, and simulation studies with controlled outliers.
 
-The estimator was developed and evaluated using R and Python. Its performance was examined on real and synthetic datasets and compared with traditional Ordinary Least Squares (OLS) methods.
+## Results and Analysis
+The study examines estimator performance using bias and Mean Squared Error (MSE). Visualisations illustrate outlier effects and compare estimator performance across real and simulated datasets.
 
 ## Tools Used
-
 R, Python, Statistical Analysis, Robust Estimation
 
-## Research Focus
-
-The study explores robust estimation techniques and their potential application to survey data, particularly in the presence of outliers.
-
-## Status
-
-Research paper under publication.
+## Research Status
+Paper awaiting publication.
 
 ## Author
-
 R Jayanth
